@@ -1,18 +1,19 @@
 {
-  "name": "tutorial",
+  "name": "React Todos",
   "version": "1.0.0",
-  "description": "My React Demo from React \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dthe \u001b[React tutorial\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[.\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[d",
+  "description": "React Todos Demo ES5",
   "main": "index.js",
   "dependencies": {
     "body-parser": "^1.4.3",
     "express": "^4.4.5"
   },
   "scripts": {
+    "start": "node server.js",
     "test": "to test"
   },
   "repository": {
     "type": "git",
-    "url": "what is repository"
+    "url": "https://github.com/kagol/react-todos-es5"
   },
   "keywords": [
     "react",
